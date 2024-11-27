@@ -1,3 +1,3 @@
 ---
-　: !ruby/class "$$ @b\x"
+　: !ruby/class "$$ @b\!ruby/class"
 ---
