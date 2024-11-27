@@ -1,3 +1,3 @@
 ---
-　: !ruby/class "Object"
+　: !python/class "Object"
 ---
