@@ -1,3 +1,3 @@
 ---
-　: !ruby/class "\00"v"
+　: !ruby/class "\00"
 ---
