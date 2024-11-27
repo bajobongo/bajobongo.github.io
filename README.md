@@ -1,3 +1,3 @@
 ---
-    : !ruby/class "　hmmm　"
+　: !ruby/class "　hmmm　"
 ---
