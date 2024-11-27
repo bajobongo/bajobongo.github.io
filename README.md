@@ -1,3 +1,3 @@
 ---
-　: !ruby/class "a\u000ab"
+　: !ruby/class "Symbol::New"
 ---
