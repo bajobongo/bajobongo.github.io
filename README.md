@@ -1,3 +1,3 @@
 ---
-　: !ruby/class "\u000a"
+　: !ruby/class "a\u000ab"
 ---
