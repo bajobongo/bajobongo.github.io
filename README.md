@@ -1,3 +1,3 @@
 ---
-　: !python/class "xd"
+　: !ruby/class "1"
 ---
