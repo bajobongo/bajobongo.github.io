@@ -1,5 +1,9 @@
 ---
-Here is my little profile page...　                                                                                                     : !ruby/class "　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Hello there! I'm Maskopatol ;) "
-<hr/>
+　                                                                                                    : !ruby/class "　hmmm　"
+---
+
+---  
+: !ruby/class "　hmmm　"
+---
 <a accesskey="r" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"></a>
 <sup>Hmm...<kbd>Alt+Shift+R</kbd></sup>
