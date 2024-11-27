@@ -1,3 +1,3 @@
 ---
-　: !ruby/class "'<i>'dqw./d1"
+　: !ruby/class "$x"
 ---
