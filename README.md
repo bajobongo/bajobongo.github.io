@@ -1,3 +1,3 @@
 ---
-　: !ruby/class "\x12"
+　: !ruby/class "\u0000"
 ---
