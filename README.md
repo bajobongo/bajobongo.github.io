@@ -1,3 +1,3 @@
 ---
-　: !ruby/class "　hmmm hmm hmm　"
+　: !ruby/class "String"
 ---
