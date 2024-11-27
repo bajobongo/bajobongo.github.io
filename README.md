@@ -1,3 +1,3 @@
 ---
-　: !ruby/class "/<i>`xd`d"
+　: !ruby/class "\"v"
 ---
