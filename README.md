@@ -1,3 +1,3 @@
 ---
-　: !python/class "Object"
+　: !python/class "xd"
 ---
